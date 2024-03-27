@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Azure Honeypot Lab Project](https://[github.com/joshmadakor1/Algorithms-Practice](https://github.com/austinabutech/HoneyPot_Azure))
+- [Azure Honeypot Lab Project](https://github.com/austinabutech/HoneyPot_Azure))
 
 <h2>Certifications</h2>
 <h2>📺 Popular YouTube Videos</h2>
